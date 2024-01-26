@@ -1,0 +1,21 @@
+{
+  "name": "meteora-linkin-park",
+  "displayName": "meteora-linkin-park",
+  "description": "tema baseado no album meteora",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RoninYoshimitsu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RoninYoshimitsu-color-theme.json"
+      }
+    ]
+  }
+}
